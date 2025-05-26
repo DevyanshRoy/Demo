@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repository.
-Author - Devyansh Roy
+Author - Godmode Devyansh Roy
